@@ -1,0 +1,31 @@
+variable,col_name
+Area code,area_code
+Area name,area_name
+All categories: General health,general_health_all
+Very good health,general_health_very_good
+Good health,general_health_good_health
+Fair health,general_health_fair
+Bad health,general_health_bad
+Very bad health,general_health_very_good
+All categories: Economic activity,economic_activity_all
+Economically active: Employee: Part-time,economic_activity_part_time
+Economically active: Employee: Full-time,economic_activity_full_time
+Economically active: Self-employed,economic_activity_self_employed
+Economically active: Unemployed,economic_activity_unemployed
+Economically active: Full-time student,economic_activity_full_time_student
+Economically inactive: Retired,economic_activity_retired
+Economically inactive: Student (including full-time students),economic_activity_student
+Economically inactive: Looking after home or family,economic_activity_looking_after_family
+Economically inactive: Long-term sick or disabled,economic_activity_disabled
+Economically inactive: Other,economic_activity_inactive_other
+Unemployed: Age 16 to 24,unemployed_16_24
+Unemployed: Age 50 to 64,unemployed_50_64
+Unemployed: Never worked,unemployed_never_worked
+Long-term unemployed,unemployed_long_term
+All categories: Sex,sex_all
+Males,sex_male
+Females,sex_female
+Lives in a household,lives_in_household
+Lives in a communal establishment,lives_in_communal_establishment
+Area ,area
+Density,density
